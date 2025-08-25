@@ -9,16 +9,16 @@ _Spécialisé en React, Next.js & solutions sur mesure._
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 ![Divi](https://img.shields.io/badge/-Divi-552B9A?logo=wordpress&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![SEO](https://img.shields.io/badge/-SEO-4CAF50?logo=google&logoColor=white&style=for-the-badge)
 ![Accessibilité](https://img.shields.io/badge/-Accessibilité-FFD43B?style=for-the-badge)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -59,7 +59,7 @@ _Spécialisé en React, Next.js & solutions sur mesure._
 
 ## 📫 Me contacter
 
-- 📸 [Instagram — @esperluweb](https://www.instagram.com/esperluweb/)
+- 📸 [Instagram — @gregoireboisseau](https://www.instagram.com/gregoireboisseau/)
 - 💼 [LinkedIn — Grégoire Boisseau](https://www.linkedin.com/in/boisseaugregoire/)
 - 🎵 [TikTok — @gregoireboisseau](https://www.tiktok.com/@gregoireboisseau)
 - ▶️ [YouTube — @gregoireboisseau](https://www.youtube.com/@gregoireboisseau)
