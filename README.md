@@ -24,36 +24,34 @@ _Spécialisé en React, Next.js & solutions sur mesure._
 
 ## 🚀 Projets récents
 
-- **2500.fr** : Ton site en 5 jours, pour 2500€ → [Découvrir](https://2500.fr)
-- **Artizi** : Application web dédiée aux professionnels de la réparation. → [Découvrir Artizi](https://site.artizi-app.com/)
-- **Le Lab de Grégoire** : Tutos et ebooks sur le dev web, le freelancing et l'équilibre perso. → [Découvrir](https://lelab.gregoireboisseau.fr)
+- **Artizi** : Application web dédiée aux professionnels de la réparation. → [Découvrir Artizi](https://artizi-app.com/)
 - **La Petite Pixelerie** : Boutique en ligne pour créateurs et artisans. → [En savoir plus](https://lapetitepixelerie.fr)
-- **Le Pédiluve** : Discord pro pour échanger entre devs, freelances et curieux du web. → [Rejoindre](https://discord.gg/jQz4XDDbQT)
+- **La liste !** : Mini-tâches à petits prix. → [Découvrir](https://la-liste-de-gregoire.netlify.app/)
+- **Le couteau suisse numérique** : Outils pratiques, 100% safety first. → [Découvrir](https://gregoireboisseau-tools.netlify.app/)
 
 ---
-
-## 🎓 Activités
-
-- 🛒 **Co-fondateur de La Petite Pixelerie** : création de boutiques en ligne pour créateurs et artisans.
-- 📺 **Streameur** : sessions live sur Twitch pour partager mes projets, méthodes et outils.
-- ▶️ **Créateur sur YouTube** : replays des streams, tutos, conseils et coulisses du métier.
 
 ## 🛠️ Projets Open Source
 
-- **[create-project](https://github.com/gregoireboisseau/create-project)** : Script CLI pour initialiser rapidement de nouveaux projets avec une structure de base
+- **[create-project-2](https://github.com/gregoireboisseau/create-project-2)** : Script Python pour initialiser rapidement de nouveaux projets avec une structure de base
 - **[boilerplate-astro-stripe](https://github.com/gregoireboisseau/boilerplate-astro-stripe)** : Boilerplate pour sites e-commerce avec Astro et Stripe
 - **[tests-personnalites](https://github.com/gregoireboisseau/tests-personnalites)** : Plugin WordPress pour créer facilement des tests de personnalité
 - **[boilerplate-next-wpheadless](https://github.com/gregoireboisseau/boilerplate-next-wpheadless)** : Architecture complète pour un site headless WordPress avec Next.js
+- **[python-scrapper](https://github.com/gregoireboisseau/python-scrapper)** : Script Python pour scraper des données web + faire des audits SEO
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Statistiques
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/gregoireboisseau?style=for-the-badge&logo=github-sponsors&color=#EA4AAA)](https://github.com/sponsors/gregoireboisseau)
+[![Followers](https://img.shields.io/github/followers/gregoireboisseau?style=for-the-badge&logo=github&color=2088FF)](https://github.com/gregoireboisseau?tab=followers)
+[![Visiteurs](https://komarev.com/ghpvc/?username=gregoireboisseau&style=for-the-badge)](https://github.com/gregoireboisseau)
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=gregoireboisseau&show_icons=true&theme=default&include_all_commits=true)
+![Gregoire's GitHub Stats](https://github-readme-stats-alpha-mocha-57.vercel.app/api?username=gregoireboisseau&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoireboisseau&layout=compact&theme=default&hide=html,css,scss)
+![Top Languages](https://github-readme-stats-alpha-mocha-57.vercel.app/api/top-langs/?username=gregoireboisseau&layout=compact&theme=radical&hide=html,css,scss)
+
+![Activité GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregoireboisseau&theme=radical)
 
 ---
 
