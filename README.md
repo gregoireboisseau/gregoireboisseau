@@ -47,9 +47,9 @@ _Spécialisé en React, Next.js & solutions sur mesure._
 [![Followers](https://img.shields.io/github/followers/gregoireboisseau?style=for-the-badge&logo=github&color=2088FF)](https://github.com/gregoireboisseau?tab=followers)
 [![Visiteurs](https://komarev.com/ghpvc/?username=gregoireboisseau&style=for-the-badge)](https://github.com/gregoireboisseau)
 
-![Gregoire's GitHub Stats](https://github-readme-stats-alpha-mocha-57.vercel.app/api?username=gregoireboisseau&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Gregoire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregoireboisseau&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-alpha-mocha-57.vercel.app/api/top-langs/?username=gregoireboisseau&layout=compact&theme=radical&hide=html,css,scss)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoireboisseau&layout=compact&theme=radical&hide=html,css,scss)
 
 ![Activité GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregoireboisseau&theme=radical)
 
